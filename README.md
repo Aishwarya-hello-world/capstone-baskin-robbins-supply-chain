@@ -49,4 +49,4 @@ Created using NotebookLM to explain the approach, methodology, insights, and out
 **Aishwarya Radhakrishnan**  
 Supply Chain & Operations Analytics  
 CSUEB – MS Engineering Management  
-LinkedIn: *add your link here*
+LinkedIn: https://www.linkedin.com/in/aishwarya-radhakrishnan-792244128/
