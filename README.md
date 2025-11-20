@@ -20,6 +20,14 @@ This project explores how Baskin Robbins can optimize their delivery routes and 
 | **Capstone_Presentation.pptx** | Slides used for final presentation |
 | **Dataset.xlsx** | Cleaned dataset + analysis done in Excel |
 
+
+🎥 AI Summary Presentation (NotebookLM)
+
+This video provides an AI-generated summary of the project.
+Created using NotebookLM to explain the approach, methodology, insights, and outcomes.
+
+▶️ Watch Here: AI Capstone Presentation: https://drive.google.com/file/d/153xjBPhmVQFoqtftRpF58VNCFnZb_Jow/view?usp=drive_link
+
 ---
 
 ## ✨ **Key Insights**
